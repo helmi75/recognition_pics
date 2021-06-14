@@ -5,7 +5,6 @@ requests
 opencv-python
 Pillow-PIL 
 matplotlib
-random 
 json
 os
 streamlit
