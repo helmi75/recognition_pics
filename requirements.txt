@@ -5,7 +5,7 @@ requests
 opencv-python
 Pillow-PIL 
 matplotlib
-jsonlib
+jsonlib == 1.6.1
 streamlit
 tensorflow
 pickle5 
