@@ -5,6 +5,7 @@ requests
 opencv-python==4.5.2.54
 Pillow-PIL 
 matplotlib
+six==1.15.0
 #jsonlib == 1.6.1
 #streamlit
 #tensorflow
