@@ -1,7 +1,7 @@
 import pandas as pd
 import numpy as np
 import requests
-import cv2 as cv
+import opencv as cv
 from PIL import Image
 import matplotlib.pyplot as plt
 import random 
