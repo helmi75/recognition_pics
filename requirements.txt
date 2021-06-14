@@ -2,7 +2,7 @@ pip == 21.1.2
 pandas
 numpy
 requests
-cv2
+opencv
 PIL
 matplotlib
 random 
