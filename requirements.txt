@@ -8,4 +8,4 @@ matplotlib
 jsonlib
 streamlit
 tensorflow
-pickle
+pickle5 
