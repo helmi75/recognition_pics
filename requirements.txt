@@ -3,7 +3,7 @@ pandas
 numpy
 requests
 opencv-python
-PIL
+pil
 matplotlib
 random 
 json
