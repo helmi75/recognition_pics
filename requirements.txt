@@ -6,7 +6,6 @@ opencv-python
 Pillow-PIL 
 matplotlib
 jsonlib
-os
 streamlit
 tensorflow
 pickle
