@@ -1,0 +1,12 @@
+pandas
+numpy
+requests
+cv2
+PIL
+matplotlib
+random 
+json
+os
+streamlit
+tensorflow
+pickle
