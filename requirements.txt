@@ -10,7 +10,6 @@ libfontconfig1
 libgl1-mesa-glx 
 libgl1-mesa-dri
 six==1.15.0
--y libgl1-mesa-glx
 #jsonlib == 1.6.1
 #streamlit
 #tensorflow
