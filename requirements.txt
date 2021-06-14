@@ -5,7 +5,7 @@ requests
 opencv-python
 Pillow-PIL 
 matplotlib
-json
+jsonlib
 os
 streamlit
 tensorflow
